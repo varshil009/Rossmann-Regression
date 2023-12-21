@@ -9,6 +9,6 @@ Businesses use sales forecasts to determine what revenue they will be generating
 The work here forecasts the sales of the various Rossmann stores across Europe for the recent six weeks and compares the results from the models developed with the actual sales values.
 
 ## Link for data : 
->**shops** : https://drive.google.com/file/d/1cjmLnxQQsk_tt74sJWYoefOAFhl2C4bM/view?usp=sharing<br>
->**sales** : https://drive.google.com/file/d/1NiaSYRPjY5Z2k7rC-HC2bKoFH6Uf7r9f/view?usp=sharing<br>
->**ml ready** : https://drive.google.com/file/d/1uKUfgEuDePUGWPXLXXS89XD4SOv3n7rg/view?usp=sharing
+**shops** : https://drive.google.com/file/d/1cjmLnxQQsk_tt74sJWYoefOAFhl2C4bM/view?usp=sharing   <br>
+**sales** : https://drive.google.com/file/d/1NiaSYRPjY5Z2k7rC-HC2bKoFH6Uf7r9f/view?usp=sharing    <br>
+**ml ready** : https://drive.google.com/file/d/1uKUfgEuDePUGWPXLXXS89XD4SOv3n7rg/view?usp=sharing
